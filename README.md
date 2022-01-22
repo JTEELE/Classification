@@ -1,4 +1,6 @@
 >## *Classification Models - Mortgage Default*  
+
+>## **See PDF markup for script walkthrough** 
 #
 
 <img src="Images/jupiter.jfif" align="center" width="200px"/>
@@ -33,7 +35,7 @@
 # See writeup file (pdf) for support of model results
 This assignment utilized binary classification to determine whether loans were high or low risk. 
 
-## Resample
+## Resample - See PDF markup
 
 Three resample methods were used for the resample portion of this assignment to determine *high-risk loans*:
 Standard Scaler for oversampling: Balance accuracy: 94%; Precision (0,1): 100%/87%; Recall(0,1): 100%/89%; Specificity(0,1): 89%/100%. 
@@ -65,4 +67,3 @@ https://sps.northwestern.edu/
 
 2. Ensemble Learning (Medium):
 https://medium.com/@mygreatlearning/everything-you-need-to-know-about-ensemble-learning-eed79a704a45.
-
